@@ -86,10 +86,10 @@
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ghost_master_relics.enc",
       "steam_appid": "3289090",
       "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3289090/library_hero.jpg",
-      "payload_size": 19657512,
-      "payload_sha256": "7b79bd07ab44d536eade9aed0ca85055af08fb86f25f88d9f48cb406af6aed7f",
-      "file_size": 19657512,
-      "sha256": "7b79bd07ab44d536eade9aed0ca85055af08fb86f25f88d9f48cb406af6aed7f"
+      "payload_size": 19657544,
+      "payload_sha256": "667a0a1aa83365399f585ed279e5c371ad6e40a260dffd228a0c2e5ca3104410",
+      "file_size": 19657544,
+      "sha256": "667a0a1aa83365399f585ed279e5c371ad6e40a260dffd228a0c2e5ca3104410"
     }
   ]
 }
