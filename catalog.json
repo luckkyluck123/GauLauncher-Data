@@ -26,7 +26,11 @@
       "payload_file": "ff_resonance.enc",
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ff_resonance.enc",
       "steam_appid": "3084120",
-      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3084120/capsule_616x353.jpg"
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3084120/capsule_616x353.jpg",
+      "payload_size": 80501480,
+      "payload_sha256": "864e666d8cb59253fb2eac3dd826207aab2f07ee69b22ca225d580e517151368",
+      "file_size": 80501480,
+      "sha256": "864e666d8cb59253fb2eac3dd826207aab2f07ee69b22ca225d580e517151368"
     },
     {
       "id": "borderlands_4",
@@ -52,7 +56,11 @@
       "payload_file": "borderlands_4.enc",
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/borderlands_4.enc",
       "steam_appid": "1285190",
-      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/library_hero.jpg"
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/library_hero.jpg",
+      "payload_size": 26536776,
+      "payload_sha256": "4e2e61c18e8c34d635c36de00df3d278a4e755b88d3666b00b8dde9f02645137",
+      "file_size": 26539312,
+      "sha256": "988e54a574c36779870b712c2281e242ebd598c0684b77cb91bb1fcab0e3be7a"
     },
     {
       "id": "ghost_master_relics",
@@ -77,7 +85,11 @@
       "payload_file": "ghost_master_relics.enc",
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ghost_master_relics.enc",
       "steam_appid": "3289090",
-      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3289090/library_hero.jpg"
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3289090/library_hero.jpg",
+      "payload_size": 19656248,
+      "payload_sha256": "82155b47f562a5a4ebc3c2363fc11362248d3bad3e3720bdad2b129ca4026901",
+      "file_size": 19660624,
+      "sha256": "8e866c39964bbadffabff9ab675c0f18813506a21e98f25f08c1e1ec92ea5b58"
     }
   ]
 }
