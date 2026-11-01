@@ -16,9 +16,9 @@
       "badge": "Siêu Phẩm",
       "author": "Gấu Công Tâm",
       "banner_title": "FINAL FANTASY RESONANCE",
-      "description": "Siêu phẩm nhập vai chiến thuật (JRPG) kinh điển do Square Enix và LANCARSE phát triển. Đắm chìm vào thế giới Lapis đang trên bờ vực diệt vong khi Pha Lê Đất Mẹ bị thế lực hắc ám nhắm đến. Đồng hành cùng hai hiệp sĩ Rain, Lasswell và cô gái bí ẩn Fina bước vào hành trình giải cứu thế giới đầy cam go nhưng ngập tràn tiếng cười.\n\n• Điểm sáng lối chơi: Cơ chế chiến thuật theo lượt kinh điển, triệu hồi Tinh linh huyền thoại (Espers), hệ thống trò chuyện tương tác Active Time Chat (ATC) sống động.\n• Bản dịch tâm huyết từ Gấu Công Tâm: Toàn bộ 26.725 câu thoại được team nỗ lực mài giũa, cố gắng trau chuốt văn phong thuần Việt, dí dỏm và tự nhiên nhất để mang lại trải nghiệm trọn vẹn cho anh em.",
+      "description": "Siêu phẩm nhập vai chiến thuật (JRPG) kinh điển do Square Enix và LANCARSE phát triển. Đắm chìm vào thế giới Lapis đang trên bờ vực diệt vong khi Pha Lê Đất Mẹ bị thế lực hắc ám nhắm đến. Đồng hành cùng hai hiệp sĩ Rain, Lasswell và cô gái bí ẩn Fina bước vào hành trình giải cứu thế giới đầy cam go nhưng ngập tràn tiếng cười.\n\n• Điểm sáng lối chơi: Cơ chế chiến thuật theo lượt kinh điển, triệu hồi Tinh linh huyền thoại (Espers), hệ thống trò chuyện tương tác Active Time Chat (ATC) sống động.\n• Bản dịch tâm huyết từ Gấu Công Tâm: Toàn bộ 26.725 câu thoại được Gấu Công Tâm nỗ lực mài giũa, cố gắng trau chuốt văn phong thuần Việt, dí dỏm và tự nhiên nhất để mang lại trải nghiệm trọn vẹn cho anh em.",
       "changelog": "v1.0.0 (01/11/2026):\n- Phát hành bản dịch tiếng Việt hoàn chỉnh cho toàn bộ cốt truyện và giao diện game.\n- Tích hợp phụ đề tiếng Việt cho các đoạn phim cắt cảnh.\n- Tối ưu hiển thị font chữ tiếng Việt rõ ràng, dễ nhìn.",
-      "steam_appid": "3084120",
+      "sGấu_appid": "3084120",
       "process_names": [
         "FFRS",
         "FFRS-Win64-Shipping"
@@ -42,7 +42,7 @@
       "banner_title": "BORDERLANDS 4",
       "description": "Huyền thoại bắn súng cướp đồ (Looter Shooter) đình đám từ Gearbox Software. Khám phá hành tinh Kairos đầy hỗn loạn với kho vũ khí hàng tỷ khẩu súng độc lạ, chạm trán các phe phái điên rồ và tên bạo chúa Kẻ Giữ Thời Gian (Timekeeper). Cùng sát cánh bên bốn Thợ Săn Hầm Ngục mới toanh với bộ kỹ năng độc nhất vô nhị.\n\n• Điểm sáng lối chơi: Lối chơi hành động nghẹt thở, cơ chế nhặt đồ gây nghiện, hỏa lực bùng nổ cùng hàng ngàn sự kết hợp trang bị biến hóa khôn lường.\n• Bản dịch tâm huyết từ Gấu Công Tâm: Toàn bộ hơn 194.000 mục văn bản (gồm toàn bộ 10 DLCs mở rộng) và 272 đoạn phim cắt cảnh được trau chuốt tỉ mỉ, truyền tải trọn vẹn chất hài hước tưng tửng đặc trưng của Borderlands theo cách thuần Việt và gần gũi nhất.",
       "changelog": "v1.0.0 (01/11/2026):\n- Hoàn thiện bản dịch tiếng Việt cho toàn bộ kịch bản, bách khoa trang bị và 10 DLCs mở rộng.\n- Phụ đề tiếng Việt chuẩn cho toàn bộ 272 phân đoạn phim cắt cảnh.\n- Bổ sung bộ font chữ tiếng Việt sắc nét, rõ ràng và hài hòa với giao diện game.",
-      "steam_appid": "1285190",
+      "sGấu_appid": "1285190",
       "process_names": [
         "Borderlands4",
         "Borderlands4-Win64-Shipping",
