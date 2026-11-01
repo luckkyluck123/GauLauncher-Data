@@ -4,7 +4,7 @@
   "launcher_version": "1.0.0",
   "remote_catalog_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/catalog.json",
   "updated_at": "2026-11-01",
-  "announcement": "Chào mừng đến với Gấu Cloud Launcher! Hệ thống tự động cập nhật bản dịch tiếng Việt cho anh em game thủ.",
+  "announcement": "Chào mừng đến với Gấu Cloud Launcher! Bản dịch hoàn toàn miễn phí cho cộng đồng.",
   "games": [
     {
       "id": "ff_resonance",
@@ -16,8 +16,8 @@
       "badge": "Siêu Phẩm",
       "author": "Gấu Công Tâm",
       "banner_title": "FINAL FANTASY RESONANCE",
-      "description": "Siêu phẩm nhập vai chiến thuật (JRPG) kinh điển do Square Enix và LANCARSE phát triển. Đắm chìm vào thế giới Lapis đang trên bờ vực diệt vong khi Pha Lê Đất Mẹ bị thế lực hắc ám nhắm đến. Đồng hành cùng hai hiệp sĩ Rain, Lasswell và cô gái bí ẩn Fina bước vào hành trình giải cứu thế giới đầy cam go nhưng ngập tràn tiếng cười.\n\n• Điểm sáng lối chơi: Cơ chế chiến thuật theo lượt kinh điển, triệu hồi Tinh linh huyền thoại (Espers), hệ thống trò chuyện tương tác Active Time Chat (ATC) sống động.\n• Bản dịch độc quyền Gấu Công Tâm: 26.725 câu thoại được mài giũa tỉ mỉ, khử 100% dịch máy ngô nghê, đối đáp cà khịa sâu cay chuẩn ngôn ngữ đời sống Việt Nam.",
-      "changelog": "v1.0.0 (01/11/2026):\n- Hoàn thiện 100% toàn bộ 26.725 câu thoại và bách khoa toàn thư.\n- Mài giũa 61 phân cảnh Active Time Chat cực kỳ dí dỏm, sâu sắc.\n- Bơm trọn bộ font HD Studio vào toàn bộ 5 phân hệ (BO, SE, Arphic, AsiaKDREAM, EngineFonts), triệt tiêu lỗi mất dấu menu tiêu đề.\n- Hardsub phụ đề tiếng Việt chuẩn điện ảnh cho toàn bộ video Intro mở đầu.\n- Vượt qua 6 tầng kiểm định Gauntlet với chính xác 0 lỗi.",
+      "description": "Siêu phẩm nhập vai chiến thuật (JRPG) kinh điển do Square Enix và LANCARSE phát triển. Đắm chìm vào thế giới Lapis đang trên bờ vực diệt vong khi Pha Lê Đất Mẹ bị thế lực hắc ám nhắm đến. Đồng hành cùng hai hiệp sĩ Rain, Lasswell và cô gái bí ẩn Fina bước vào hành trình giải cứu thế giới đầy cam go nhưng ngập tràn tiếng cười.\n\n• Điểm sáng lối chơi: Cơ chế chiến thuật theo lượt kinh điển, triệu hồi Tinh linh huyền thoại (Espers), hệ thống trò chuyện tương tác Active Time Chat (ATC) sống động.\n• Bản dịch tâm huyết từ Gấu Công Tâm: Toàn bộ 26.725 câu thoại được team nỗ lực mài giũa, cố gắng trau chuốt văn phong thuần Việt, dí dỏm và tự nhiên nhất để mang lại trải nghiệm trọn vẹn cho anh em.",
+      "changelog": "v1.0.0 (01/11/2026):\n- Hoàn thiện toàn bộ 26.725 câu thoại kịch bản và bách khoa toàn thư.\n- Trau chuốt văn phong 61 phân cảnh Active Time Chat theo lối đối thoại tự nhiên, gần gũi.\n- Bổ sung bộ font HD sắc nét đồng bộ cả 5 phân hệ font (BO, SE, Arphic, AsiaKDREAM, EngineFonts).\n- Hardsub phụ đề tiếng Việt chuẩn điện ảnh cho video Intro mở đầu.\n- Đã qua nhiều vòng rà soát và kiểm thử kỹ lưỡng để mang lại trải nghiệm mượt mà nhất.",
       "steam_appid": "3084120",
       "process_names": ["FFRS", "FFRS-Win64-Shipping"],
       "signature_file": "FFRS\\Content\\Paks\\FFRS-Windows.pak",
