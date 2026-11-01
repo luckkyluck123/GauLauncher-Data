@@ -90,6 +90,35 @@
       "payload_sha256": "667a0a1aa83365399f585ed279e5c371ad6e40a260dffd228a0c2e5ca3104410",
       "file_size": 19657544,
       "sha256": "667a0a1aa83365399f585ed279e5c371ad6e40a260dffd228a0c2e5ca3104410"
+    },
+    {
+      "id": "brigandine_abyss",
+      "title": "Brigandine Abyss",
+      "genre": "Nhập Vai / Chiến Thuật (Grand Strategy RPG)",
+      "developer": "Happinet / Matrix Software",
+      "version": "1.0.0",
+      "status": "ready",
+      "badge": "Đại Chiến Thuật",
+      "author": "Gấu Công Tâm",
+      "banner_title": "BRIGANDINE ABYSS",
+      "description": "Tuyệt phẩm đại chiến thuật phân tranh lục địa theo lượt (Grand Strategy RPG). Trở thành Lãnh chúa Rune Knight, thống lĩnh hàng trăm binh đoàn ma thú, điều binh khiển tướng và mở mang bờ cõi thống nhất lục địa.\n\n• Điểm sáng lối chơi: Bản đồ lục địa phân tranh hùng tráng, hệ thống chuyển chức hiệp sĩ và triệu hồi ma thú đa dạng, chiến đấu chiến thuật bàn cờ lục lăng theo lượt chuyên sâu.\n• Bản dịch tâm huyết từ Gấu: Toàn bộ 100% cốt truyện, nhiệm vụ, kỹ năng ma thuật, bách khoa ma thú và 33 đoạn phim cắt cảnh được Gấu trau chuốt chuẩn phong vị chiến thuật thuần Việt, hào sảng và mượt mà nhất.",
+      "changelog": "v1.0.0 (02/11/2026):\n- Bản phát hành chính thức Việt Hóa 100% toàn bộ kịch bản, lời thoại nhân vật và hệ thống giao diện.\n- Đồng bộ phụ đề tiếng Việt chuẩn điện ảnh cho toàn bộ 33 đoạn phim cắt cảnh.\n- Khóa cứng thuật ngữ quân sự, chuẩn hóa xưng hô ruột thịt và khử tuyệt đối đảo ngữ.\n- Font chữ tiếng Việt sắc nét, tương thích hoàn hảo Unreal Engine 5 Zen Loader.",
+      "process_names": [
+        "BrigandineAbyss",
+        "BrigandineAbyss-Win64-Shipping"
+      ],
+      "signature_file": "BrigandineAbyss\\Content\\Paks\\BrigandineAbyss-Windows.ucas",
+      "exe_relative_path": "BrigandineAbyss.exe",
+      "alt_exe_relative_path": "BrigandineAbyss\\Binaries\\Win64\\BrigandineAbyss-Win64-Shipping.exe",
+      "mod_pak_name": "BrigandineAbyss-Windows_P.pak",
+      "payload_file": "brigandine_abyss.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/brigandine_abyss.enc",
+      "steam_appid": "1843940",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1843940/library_hero.jpg",
+      "payload_size": 2635048,
+      "payload_sha256": "a30eabf1c2c675a80da54673a9448ad9a6c72e846e7a1e19eaf9e2177f52b581",
+      "file_size": 2635048,
+      "sha256": "a30eabf1c2c675a80da54673a9448ad9a6c72e846e7a1e19eaf9e2177f52b581"
     }
   ]
 }
