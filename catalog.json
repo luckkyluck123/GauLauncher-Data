@@ -81,7 +81,7 @@
       "signature_file": "GhostMasterRemake\\Content\\Paks\\GhostMasterRemake-Windows.pak",
       "exe_relative_path": "GhostMasterRemake.exe",
       "alt_exe_relative_path": "GhostMasterRemake\\Binaries\\Win64\\GhostMasterRemake-Win64-Shipping.exe",
-      "mod_pak_name": "GhostMasterRemake-Windows.pak",
+      "mod_pak_name": "",
       "payload_file": "ghost_master_relics.enc",
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ghost_master_relics.enc",
       "steam_appid": "3289090",
