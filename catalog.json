@@ -119,6 +119,35 @@
       "payload_sha256": "2bf4b8d39aecf5c8f218241fccf495e78b66edb54462e99e7f9900d49d742b62",
       "file_size": 2635224,
       "sha256": "2bf4b8d39aecf5c8f218241fccf495e78b66edb54462e99e7f9900d49d742b62"
+    },
+    {
+      "id": "anomalith",
+      "title": "ANOMALITH",
+      "genre": "Sinh Tồn Kinh Dị / Bắn Súng Chiết Xuất (Extraction Shooter)",
+      "developer": "Anomalith Devs",
+      "version": "1.0.0",
+      "status": "ready",
+      "badge": "Siêu Phẩm",
+      "author": "Gấu Công Tâm",
+      "banner_title": "ANOMALITH",
+      "description": "Siêu phẩm game sinh tồn kinh dị kết hợp bắn súng chiết xuất (Extraction Shooter) góc nhìn thứ ba đầy căng thẳng. Người chơi vào vai Reona Minazuki - nữ sinh trung học sở hữu năng lực Á Nhân Hóa gia nhập Cục Ứng Phó Vùng Dị Thường, dấn thân vào những khu vực dị thường khốc liệt để tiêu diệt các thực thể quái vật, tìm kiếm dấu vết của cô bạn thân Arisa và thu thập cổ vật.\n\n• Điểm sáng lối chơi: Cơ chế bắn súng chuẩn xác, quản lý tài nguyên sống còn, năng lực biến hình Á Nhân nghẹt thở và bầu không khí kinh dị đậm đặc.\n• Bản dịch tâm huyết từ Gấu: Toàn bộ kịch bản, lời thoại nhân vật, bách khoa trang bị, súng đạn và giao diện đã được Gấu đại tu thuần Việt 100%, hài hước có duyên, giàu nhạc tính và loại bỏ triệt để văn phong dịch máy.",
+      "changelog": "v1.0.0 (02/11/2026):\n- Phát hành bản dịch tiếng Việt hoàn chỉnh cho toàn bộ cốt truyện, hội thoại và giao diện game.\n- Tối ưu hóa font chữ tiếng Việt rõ ràng, chuẩn nét.\n- Hỗ trợ đầy đủ bộ cài đặt 1-Click và nạp trực tiếp qua Gấu Launcher.",
+      "process_names": [
+        "Anomalith",
+        "Anomalith.exe"
+      ],
+      "signature_file": "Anomalith_Data\\\\Managed\\\\Assembly-CSharp.dll",
+      "exe_relative_path": "Anomalith.exe",
+      "alt_exe_relative_path": "Anomalith.exe",
+      "mod_pak_name": "",
+      "payload_file": "anomalith.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/anomalith.enc",
+      "steam_appid": "3192460",
+      "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/anomalith.png",
+      "payload_size": 1316008,
+      "payload_sha256": "46aa1a87f6f908b7c1cd298dd53b439920e798c27ebfe91b9a7394c41c6bdd69",
+      "file_size": 1316008,
+      "sha256": "46aa1a87f6f908b7c1cd298dd53b439920e798c27ebfe91b9a7394c41c6bdd69"
     }
   ]
 }
