@@ -115,10 +115,10 @@
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/brigandine_abyss.enc",
       "steam_appid": "1843940",
       "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1843940/library_hero.jpg",
-      "payload_size": 2635048,
-      "payload_sha256": "a30eabf1c2c675a80da54673a9448ad9a6c72e846e7a1e19eaf9e2177f52b581",
-      "file_size": 2635048,
-      "sha256": "a30eabf1c2c675a80da54673a9448ad9a6c72e846e7a1e19eaf9e2177f52b581"
+      "payload_size": 2635224,
+      "payload_sha256": "2bf4b8d39aecf5c8f218241fccf495e78b66edb54462e99e7f9900d49d742b62",
+      "file_size": 2635224,
+      "sha256": "2bf4b8d39aecf5c8f218241fccf495e78b66edb54462e99e7f9900d49d742b62"
     }
   ]
 }
