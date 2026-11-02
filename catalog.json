@@ -202,10 +202,10 @@
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/resonance_of_fate.enc",
       "steam_appid": "645730",
       "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/645730/capsule_616x353.jpg",
-      "payload_size": 1664382152,
-      "payload_sha256": "96d2497f10d8930f4881d464d574cbb27ca7612ccf4fddf262ed41cb6c944a34",
-      "file_size": 1664382152,
-      "sha256": "96d2497f10d8930f4881d464d574cbb27ca7612ccf4fddf262ed41cb6c944a34",
+      "payload_size": 1664550600,
+      "payload_sha256": "b103b93780a44babf826f3e277649f693e4d2bfc48d16b9d7559adf6cc6e013f",
+      "file_size": 1664550600,
+      "sha256": "b103b93780a44babf826f3e277649f693e4d2bfc48d16b9d7559adf6cc6e013f",
       "staging": true
     }
   ]
