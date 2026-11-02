@@ -148,6 +148,35 @@
       "payload_sha256": "46aa1a87f6f908b7c1cd298dd53b439920e798c27ebfe91b9a7394c41c6bdd69",
       "file_size": 1316008,
       "sha256": "46aa1a87f6f908b7c1cd298dd53b439920e798c27ebfe91b9a7394c41c6bdd69"
+    },
+    {
+      "id": "ground_zero",
+      "title": "Ground Zero",
+      "genre": "Kinh Dị Sinh Tồn / Bắn Súng Góc Nhìn Thứ Ba",
+      "developer": "Malformation Games / Kwalee",
+      "version": "v2026.09.27",
+      "status": "ready",
+      "badge": "Siêu Phẩm",
+      "author": "Gấu Công Tâm",
+      "banner_title": "GROUND ZERO",
+      "description": "Tựa game kinh dị sinh tồn góc nhìn thứ ba đỉnh cao lấy bối cảnh thành phố biển Busan, Hàn Quốc hoang tàn sau một vụ va chạm thiên thạch bí ẩn mang theo mầm bệnh đột biến kinh hoàng. Vào vai Đại úy Jang Seo-yeon cùng đồng đội Evan Fielding dấn thân vào vùng tâm chấn Ground Zero để đối đầu với những sinh vật ký sinh dị dạng và vén màn âm mưu đen tối của các thế lực ngầm.\n\n• Điểm sáng lối chơi: Không khí kinh dị ngột ngạt chuẩn Resident Evil cổ điển, hệ thống điều khiển hiện đại lẫn Tank controls, cơ chế tiêm huyết thanh nâng cấp gen và giải đố môi trường hóc búa.\n• Bản dịch tâm huyết từ Gấu Công Tâm: 100% Việt hóa chuẩn studio, văn phong thuần Việt hóm hỉnh bốc lửa, giữ nguyên 100% tên riêng tiếng Anh tra cứu Wiki, chèn phụ đề điện ảnh toàn bộ phim cắt cảnh, font chữ sắc nét và mượt mà.",
+      "changelog": "v2026.09.27 (02/11/2026):\n- Hoàn thiện bản dịch tiếng Việt 100% không lỗi cho toàn bộ 4.187 chuỗi thoại, tài liệu, giao diện và cài đặt.\n- Chèn phụ đề tiếng Việt chuẩn điện ảnh cho 100% video clip và mở đầu câu chuyện.\n- Tích hợp bộ font tiếng Việt Full Unicode siêu nét, tương thích hoàn hảo mọi độ phân giải.",
+      "process_names": [
+        "GroundZero",
+        "GroundZero-Win64-Shipping"
+      ],
+      "signature_file": "GroundZero\\Content\\Paks\\GroundZero-Windows.pak",
+      "exe_relative_path": "GroundZero.exe",
+      "alt_exe_relative_path": "GroundZero\\Binaries\\Win64\\GroundZero-Win64-Shipping.exe",
+      "mod_pak_name": "",
+      "payload_file": "ground_zero.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ground_zero.enc",
+      "steam_appid": "2340130",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2340130/capsule_616x353.jpg",
+      "payload_size": 323393112,
+      "payload_sha256": "1ffc6e9baf2f864d535d0e7e254e3e664817717698496db9094bc0f2621e2fcc",
+      "file_size": 323393112,
+      "sha256": "1ffc6e9baf2f864d535d0e7e254e3e664817717698496db9094bc0f2621e2fcc"
     }
   ]
 }
