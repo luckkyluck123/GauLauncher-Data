@@ -176,8 +176,7 @@
       "payload_size": 323393112,
       "payload_sha256": "21d98c4fbd60cd6f36c4471d81b3fc30053cdc5fb567d465887491dc19a3b4a6",
       "file_size": 323393112,
-      "sha256": "21d98c4fbd60cd6f36c4471d81b3fc30053cdc5fb567d465887491dc19a3b4a6",
-      "staging": true
+      "sha256": "21d98c4fbd60cd6f36c4471d81b3fc30053cdc5fb567d465887491dc19a3b4a6"
     }
   ]
 }
