@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "updated_at": "2026-11-01T23:30:00Z",
   "launcher_download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/GauCloudLauncher.zip",
   "games": [
@@ -166,17 +166,18 @@
         "GroundZero-Win64-Shipping"
       ],
       "signature_file": "GroundZero\\Content\\Paks\\GroundZero-Windows.pak",
-      "exe_relative_path": "GroundZero\\Binaries\\Win64\\GroundZero-Win64-Shipping.exe",
-      "alt_exe_relative_path": "GroundZero.exe",
+      "exe_relative_path": "GroundZero.exe",
+      "alt_exe_relative_path": "GroundZero\\Binaries\\Win64\\GroundZero-Win64-Shipping.exe",
       "mod_pak_name": "",
       "payload_file": "ground_zero.enc",
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ground_zero.enc",
       "steam_appid": "2340130",
       "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/ground_zero.png",
-      "payload_size": 324679800,
-      "payload_sha256": "79d4b04a6be1edc8e6eeec4f3045d0e1e50774da51b0dc21c069dcfc59adf67b",
-      "file_size": 324679800,
-      "sha256": "79d4b04a6be1edc8e6eeec4f3045d0e1e50774da51b0dc21c069dcfc59adf67b"
+      "payload_size": 323393112,
+      "payload_sha256": "21d98c4fbd60cd6f36c4471d81b3fc30053cdc5fb567d465887491dc19a3b4a6",
+      "file_size": 323393112,
+      "sha256": "21d98c4fbd60cd6f36c4471d81b3fc30053cdc5fb567d465887491dc19a3b4a6",
+      "staging": true
     }
   ]
 }
