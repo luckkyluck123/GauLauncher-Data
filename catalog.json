@@ -118,8 +118,7 @@
       "payload_size": 2672104,
       "payload_sha256": "3fed11cae57c6e3383fe396a52c530a66a1121270af04eaa6d73cd91394f548e",
       "file_size": 2672104,
-      "sha256": "3fed11cae57c6e3383fe396a52c530a66a1121270af04eaa6d73cd91394f548e",
-      "staging": true
+      "sha256": "3fed11cae57c6e3383fe396a52c530a66a1121270af04eaa6d73cd91394f548e"
     },
     {
       "id": "anomalith",
