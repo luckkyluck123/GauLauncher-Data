@@ -177,36 +177,6 @@
       "payload_sha256": "21d98c4fbd60cd6f36c4471d81b3fc30053cdc5fb567d465887491dc19a3b4a6",
       "file_size": 323393112,
       "sha256": "21d98c4fbd60cd6f36c4471d81b3fc30053cdc5fb567d465887491dc19a3b4a6"
-    },
-    {
-      "id": "resonance_of_fate",
-      "title": "Resonance of Fate / End of Eternity 4K/HD Edition",
-      "genre": "Nhập Vai / Chiến Thuật Đột Phá (Gun-Action Cinematic JRPG)",
-      "developer": "tri-Ace / SEGA",
-      "version": "1.0.0",
-      "status": "ready",
-      "badge": "Siêu Phẩm",
-      "author": "Gấu Công Tâm",
-      "banner_title": "RESONANCE OF FATE / END OF ETERNITY",
-      "description": "Siêu phẩm JRPG hành động đấu súng kinh điển do tri-Ace phát triển và SEGA phát hành, nay được tái sinh rực rỡ với độ phân giải 4K/HD. Đặt chân vào Basel — tòa tháp khổng lồ vận hành bằng cỗ máy thanh lọc không khí trong một thế giới hậu tận thế suy tàn. Cùng bộ ba lính đánh thuê Vashyron điềm tĩnh, Zephyr bốc đồng và Leanne bí ẩn thực hiện những hợp đồng sinh tử và lật mở bí mật vận mệnh đen tối của các Giáo chủ.\n\n• Điểm sáng lối chơi: Hệ thống tác chiến tri-Attack đột phá kết hợp giữa chiến thuật theo lượt và hành động nhào lộn điện ảnh nghẹt thở; cơ chế sát thương gãi ngứa (Scratch Damage) và dứt điểm (Direct Damage) độc nhất vô nhị; tùy biến linh kiện súng đạn cực kỳ chuyên sâu.\n• Bản dịch tâm huyết từ Gấu: Toàn bộ 14.801 dòng kịch bản, lời thoại nhân vật, thông số linh kiện vũ khí và bách khoa toàn thư được Studio Gấu Công Tâm trau chuốt thuần Việt 100%, hài tục dí dỏm có duyên, giữ nguyên 100% tên riêng tiếng Anh giúp game thủ dễ dàng tra cứu Wiki và build súng.",
-      "changelog": "v1.0.0 (03/11/2026):\n- Phát hành bản Việt hóa hoàn chỉnh 100% cho toàn bộ cốt truyện chính, nhiệm vụ phụ và kho trang bị súng đạn.\n- Khử 100% lỗi rụng dấu tiếng Việt trên nền tảng engine tri-Ace ASKA.\n- Chuẩn hóa Menu cài đặt, nút bấm tay cầm/bàn phím và cơ chế phục hồi 2 chiều bất tử.",
-      "process_names": [
-        "Resonance of Fate",
-        "Resonance of Fate.exe"
-      ],
-      "signature_file": "0000.bin",
-      "exe_relative_path": "Resonance of Fate.exe",
-      "alt_exe_relative_path": "",
-      "mod_pak_name": "",
-      "payload_file": "resonance_of_fate.enc",
-      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/resonance_of_fate.enc",
-      "steam_appid": "645730",
-      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/645730/capsule_616x353.jpg",
-      "payload_size": 1664550600,
-      "payload_sha256": "4d5bfb49174dc555423b781f990f3e2654fbbfde8a1a83016d9e15fad1a9c3a8",
-      "file_size": 1664550600,
-      "sha256": "4d5bfb49174dc555423b781f990f3e2654fbbfde8a1a83016d9e15fad1a9c3a8",
-      "staging": true
     }
   ]
 }
