@@ -57,10 +57,11 @@
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/borderlands_4.enc",
       "steam_appid": "1285190",
       "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/library_hero.jpg",
-      "payload_size": 26539336,
-      "payload_sha256": "c26bef576785ef7a94fc3d826eae81a2c850e2fdc234bb3d7d84524adc0f0ffd",
-      "file_size": 26539336,
-      "sha256": "c26bef576785ef7a94fc3d826eae81a2c850e2fdc234bb3d7d84524adc0f0ffd"
+      "payload_size": 26549336,
+      "payload_sha256": "9efa57c8d8de762fd19fb123e94ae034051ecca6a4f6d34dd446352cafd54bce",
+      "file_size": 26549336,
+      "sha256": "9efa57c8d8de762fd19fb123e94ae034051ecca6a4f6d34dd446352cafd54bce",
+      "staging": true
     },
     {
       "id": "ghost_master_relics",
