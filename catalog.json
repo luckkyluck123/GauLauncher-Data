@@ -43,7 +43,7 @@
       "author": "Gấu Công Tâm",
       "banner_title": "BORDERLANDS 4",
       "description": "Huyền thoại bắn súng cướp đồ (Looter Shooter) đình đám từ Gearbox Software. Khám phá hành tinh Kairos đầy hỗn loạn với kho vũ khí hàng tỷ khẩu súng độc lạ, chạm trán các phe phái điên rồ và tên bạo chúa Kẻ Giữ Thời Gian (Timekeeper). Cùng sát cánh bên bốn Thợ Săn Hầm Ngục mới toanh với bộ kỹ năng độc nhất vô nhị.\n\n• Điểm sáng lối chơi: Lối chơi hành động nghẹt thở, cơ chế nhặt đồ gây nghiện, hỏa lực bùng nổ cùng hàng ngàn sự kết hợp trang bị biến hóa khôn lường.\n• Bản dịch tâm huyết từ Gấu: Toàn bộ kịch bản, kho vũ khí bách khoa trang bị (gồm trọn bộ 10 DLCs mở rộng) và toàn bộ các phân đoạn phim cắt cảnh được Gấu trau chuốt tỉ mỉ, truyền tải trọn vẹn chất hài hước tưng tửng đặc trưng của Borderlands theo cách thuần Việt và gần gũi nhất.",
-      "changelog": "v1.11 (01/11/2026):\n- Hoàn thiện bản dịch tiếng Việt cho toàn bộ kịch bản, bách khoa trang bị và 10 DLCs mở rộng.\n- Phụ đề tiếng Việt chuẩn cho toàn bộ 272 phân đoạn phim cắt cảnh.\n- Bổ sung bộ font chữ tiếng Việt sắc nét, rõ ràng và hài hòa với giao diện game.",
+      "changelog": "v1.11 (03/11/2026):\n- ĐẠI TU TOÀN DIỆN CHUẨN GẤU CÔNG TÂM (ZERO-TRUST RE-LOCALIZATION):\n  • Giữ nguyên 100% Tên riêng Tiếng Anh cho Kỹ Năng, Vũ Khí Độc Bản, Boss, NPC để game thủ dễ tra cứu Wiki & Build Guide.\n  • Việt hóa 100% cặn kẽ mọi phần giải thích cơ chế, chỉ số hiệu ứng, hướng dẫn và thoại kịch bản thuần Việt mượt mà.\n  • Diệt sạch 100% các bẫy dịch máy ('đặt chúng xuống', 'tải lại', 'công ty/ở dưới da tao', 'chết tiệt' -> 'Vãi lồn', 'Vãi bìu', 'Con mẹ nó', 'Đù má').\n  • Khóa chết Menu hệ thống: 'Quẩy nào!' / 'Quẩy tiếp!'.\n- Phụ đề tiếng Việt chuẩn điện ảnh cho toàn bộ 272 phân đoạn phim cắt cảnh.",
       "process_names": [
         "Borderlands4",
         "Borderlands4-Win64-Shipping",
@@ -56,12 +56,11 @@
       "payload_file": "borderlands_4.enc",
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/borderlands_4.enc",
       "steam_appid": "1285190",
-      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/library_hero.jpg",
+      "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/borderlands_4.jpg",
       "payload_size": 26549336,
       "payload_sha256": "9efa57c8d8de762fd19fb123e94ae034051ecca6a4f6d34dd446352cafd54bce",
       "file_size": 26549336,
-      "sha256": "9efa57c8d8de762fd19fb123e94ae034051ecca6a4f6d34dd446352cafd54bce",
-      "staging": true
+      "sha256": "9efa57c8d8de762fd19fb123e94ae034051ecca6a4f6d34dd446352cafd54bce"
     },
     {
       "id": "ghost_master_relics",
