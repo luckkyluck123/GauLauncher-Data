@@ -8,13 +8,13 @@
       "title": "Final Fantasy Resonance",
       "genre": "Nhập Vai / Chiến Thuật (JRPG)",
       "developer": "Square Enix",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "status": "ready",
-      "badge": "Đại Tu Toàn Diện",
+      "badge": "Đã Cập Nhật",
       "author": "Gấu Công Tâm",
       "banner_title": "FINAL FANTASY RESONANCE",
       "description": "Siêu phẩm nhập vai chiến thuật (JRPG) kinh điển do Square Enix và LANCARSE phát triển. Đắm chìm vào thế giới Lapis đang trên bờ vực diệt vong khi Pha Lê Đất Mẹ bị thế lực hắc ám nhắm đến. Đồng hành cùng hai hiệp sĩ Rain, Lasswell và cô gái bí ẩn Fina bước vào hành trình giải cứu thế giới đầy cam go nhưng ngập tràn tiếng cười.\n\n• Điểm sáng lối chơi: Cơ chế chiến thuật theo lượt kinh điển, triệu hồi Tinh linh huyền thoại (Espers), hệ thống trò chuyện tương tác Active Time Chat (ATC) sống động.\n• Bản dịch tâm huyết từ Gấu: Toàn bộ kịch bản, hội thoại nhân vật và bách khoa toàn thư được Gấu nỗ lực trau chuốt thuần Việt, dí dỏm và tự nhiên nhất để mang lại trải nghiệm trọn vẹn cho anh em.",
-      "changelog": "v2.0.0 (03/11/2026) - BẢN ĐẠI TU TOÀN DIỆN CHUẨN GẤU CÔNG TÂM:\n- Đại tu 100% từ file gốc sạch tiếng Anh (Zero-MT, xóa sạch dịch thô & máy móc).\n- Giữ nguyên 100% Tên riêng tiếng Anh (Kỹ năng, Trang bị, Vật phẩm, Materia, Boss) chuẩn Wiki & Build guide.\n- Khóa chuẩn Menu độc bản: 'Quẩy nào!' (New Game), 'Quẩy tiếp!' (Continue).\n- Tích hợp phụ đề tiếng Việt chuẩn điện ảnh cho cutscene mở đầu và vá hoàn chỉnh Font chữ HD sắc nét.\n\nv1.0.0 (01/11/2026):\n- Bản phát hành thử nghiệm đầu tiên.",
+      "changelog": "v1.0.0 (Cập nhật 03/11/2026) - BẢN ĐẠI TU TOÀN DIỆN CHUẨN GẤU CÔNG TÂM:\n- Đại tu 100% từ file gốc sạch tiếng Anh (Zero-MT, xóa sạch dịch thô & máy móc).\n- Giữ nguyên 100% Tên riêng tiếng Anh (Kỹ năng, Trang bị, Vật phẩm, Materia, Boss) chuẩn Wiki & Build guide.\n- Khóa chuẩn Menu độc bản: 'Quẩy nào!' (New Game), 'Quẩy tiếp!' (Continue).\n- Tích hợp phụ đề tiếng Việt chuẩn điện ảnh cho cutscene mở đầu và vá hoàn chỉnh Font chữ HD sắc nét.",
       "process_names": [
         "FFRS",
         "FFRS-Win64-Shipping"
@@ -30,8 +30,7 @@
       "payload_size": 80498168,
       "payload_sha256": "c5427a32f3789a3e90b4b666075905d49f2d16daf2ebc61521907d2ecd1a15c1",
       "file_size": 80498168,
-      "sha256": "c5427a32f3789a3e90b4b666075905d49f2d16daf2ebc61521907d2ecd1a15c1",
-      "staging": true
+      "sha256": "c5427a32f3789a3e90b4b666075905d49f2d16daf2ebc61521907d2ecd1a15c1"
     },
     {
       "id": "borderlands_4",
