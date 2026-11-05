@@ -27,10 +27,10 @@
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ff_resonance.enc",
       "steam_appid": "3084120",
       "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/ff_resonance.jpg?v=2",
-      "payload_size": 52312456,
-      "payload_sha256": "e5f2ba95230f42f73fec520fdd9c4b629901ce6deb4b88ee347f6b9905bc5ef3",
-      "file_size": 52312456,
-      "sha256": "e5f2ba95230f42f73fec520fdd9c4b629901ce6deb4b88ee347f6b9905bc5ef3"
+      "payload_size": 52312440,
+      "payload_sha256": "97cc3a49960b2560b3eea510350ee2d6e02990b5215459b16499267d75d75e04",
+      "file_size": 52312440,
+      "sha256": "97cc3a49960b2560b3eea510350ee2d6e02990b5215459b16499267d75d75e04"
     }
   ]
 }
