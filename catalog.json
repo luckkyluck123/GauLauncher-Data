@@ -14,7 +14,7 @@
       "author": "Gấu Công Tâm",
       "banner_title": "FINAL FANTASY RESONANCE",
       "description": "Siêu phẩm nhập vai chiến thuật (JRPG) kinh điển do Square Enix và LANCARSE phát triển. Đắm chìm vào thế giới Lapis đang trên bờ vực diệt vong khi Pha Lê Đất Mẹ bị thế lực hắc ám nhắm đến. Đồng hành cùng hai hiệp sĩ Rain, Lasswell và cô gái bí ẩn Fina bước vào hành trình giải cứu thế giới đầy cam go nhưng ngập tràn tiếng cười.\n\n• Điểm sáng lối chơi: Cơ chế chiến thuật theo lượt kinh điển, triệu hồi Tinh linh huyền thoại (Espers), hệ thống trò chuyện tương tác Active Time Chat (ATC) sống động.\n• Bản dịch tâm huyết từ Gấu: Toàn bộ kịch bản, hội thoại nhân vật và bách khoa toàn thư được Gấu nỗ lực trau chuốt thuần Việt, dí dỏm và tự nhiên nhất để mang lại trải nghiệm trọn vẹn cho anh em.",
-      "changelog": "v1.0.0 - BẢN ĐẠI TU TOÀN DIỆN CHUẨN GẤU CÔNG TÂM:\n- Đại tu 100% bản dịch từ file gốc sạch (Zero-MT, xóa sạch triệt để dịch thô & máy móc).\n- Giữ nguyên 100% Tên riêng tiếng Anh (Kỹ năng, Trang bị, Vật phẩm, Materia, Boss) chuẩn Wiki & Build guide.\n- Khóa chuẩn Menu độc bản: 'Quẩy nào!' (New Game), 'Quẩy tiếp!' (Continue).\n- Tích hợp phụ đề tiếng Việt chuẩn điện ảnh và vá hoàn chỉnh Font chữ HD sắc nét.",
+      "changelog": "v1.0.0 - BẢN ĐẠI TU TOÀN DIỆN CHUẨN GẤU CÔNG TÂM (CẬP NHẬT MỚI NHẤT):\n- Chuẩn hóa 100% mô tả kỹ năng bị động (hồi máu, hồi MP, bùa Protect/Shell, Phá Thế Stagger, Ultima Skills).\n- Cân bằng hoàn chỉnh hộp thoại <= 3 dòng, khử hoàn toàn lỗi lặn lún mép dưới khung.\n- Diệt sạch 100% bẫy dịch máy ở tất cả các bia đá cổ và nhiệm vụ phụ.\n- Giữ nguyên 100% Tên riêng tiếng Anh chuẩn Wiki & Build Guide; Nút bấm thương hiệu 'Quẩy nào!' và 'Quẩy tiếp!'.",
       "process_names": [
         "FFRS",
         "FFRS-Win64-Shipping"
@@ -27,10 +27,10 @@
       "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ff_resonance.enc",
       "steam_appid": "3084120",
       "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/ff_resonance.jpg?v=2",
-      "payload_size": 52312440,
-      "payload_sha256": "b33c3c9c7a7d74d4885189f5e09f18388906e1727f7b098865bab0889056d1b9",
-      "file_size": 52312440,
-      "sha256": "b33c3c9c7a7d74d4885189f5e09f18388906e1727f7b098865bab0889056d1b9"
+      "payload_size": 52312968,
+      "payload_sha256": "af7c108db76f271f52f82b292cafcff19570bc79f0dcd476a6c1a4a70bfc7b0d",
+      "file_size": 52312968,
+      "sha256": "af7c108db76f271f52f82b292cafcff19570bc79f0dcd476a6c1a4a70bfc7b0d"
     }
   ]
 }
