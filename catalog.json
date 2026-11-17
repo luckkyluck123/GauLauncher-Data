@@ -1,6 +1,6 @@
 {
   "version": "1.0.5",
-  "updated_at": "2026-11-17T01:00:00Z",
+  "updated_at": "2026-11-17T01:20:00Z",
   "launcher_download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/GauCloudLauncher.zip",
   "games": [
     {
@@ -39,11 +39,11 @@
       "developer": "KOEI TECMO GAMES",
       "version": "1.0.0",
       "status": "ready",
-      "staging": true,
+      "staging": false,
       "badge": "Việt Hóa 100%",
       "author": "Gấu Công Tâm",
       "banner_title": "DYNASTY WARRIORS 3 REMASTERED",
-      "description": "Siêu phẩm chặt chém (Musou) huyền thoại thời Tam Quốc được tái sinh trên nền đồ họa Unreal Engine 5 mãn nhãn. Càn quét hàng ngàn quân địch giữa chiến trường Xích Bích, Quan Độ rực lửa cùng hơn 40 danh tướng Ngụy - Thục - Ngô.\n\n• Điểm sáng lối chơi: Đánh sướng tay không khựng nhịp, tuyệt kỹ Vô Song (Musou) uy lực cùng chế độ mở rộng Xtreme Legends trọn vẹn.\n• Bản dịch tâm huyết từ Gấu: Toàn bộ cốt truyện Tam Quốc hào sảng, khẩu ngữ chiến trường máu lửa và Bách Khoa Tướng được Gấu trau chuốt thuần Việt 100%, dễ hiểu và cuốn hút cho anh em.",
+      "description": "Siêu phẩm chặt chém Tam Quốc trên nền đồ họa Unreal Engine 5 mãn nhãn, tái hiện những chiến trường Xích Bích, Quan Độ rực lửa cùng hơn 40 danh tướng Ngụy - Thục - Ngô.\n• **Kịch bản & Bách khoa 100%**: Khóa chuẩn xưng hô Tam Quốc hào sảng, khẩu ngữ chiến trường máu lửa thuần Việt và dí dỏm.\n• **Font chữ & Giao diện HD**: Đồng bộ toàn bộ Font Đẹp Nghiêng Độc Bản sắc nét, căn chuẩn tâm mọi nút bấm & bảng thông số.\n• **Menu độc bản**: **`Quẩy nào!`** (`New Game`) • **`Quẩy tiếp!`** (`Continue`).",
       "changelog": "v1.0.0 - RA MẮT BẢN VIỆT HÓA HOÀN CHỈNH CHUẨN STUDIO GẤU:\n- VIỆT HÓA 100% KỊCH BẢN & BÁCH KHOA: Dịch trọn vẹn toàn bộ lời thoại cốt truyện, chiến trường, kỹ năng, vũ khí và hồ sơ tướng Tam Quốc theo văn phong hào sảng thuần Việt.\n- KHÓA CHẾT XƯNG HÔ CỔ TRANG: Tuyệt đối chuẩn mực tôn ty Tam Quốc (Ta - Ngươi - Chúa Công - Đại Ca - Mạt Tướng), 0% từ ngữ hiện đại lạc quẻ.\n- FONT ĐẸP NGHIÊNG ĐỘC BẢN: Đồng bộ toàn bộ font chữ Việt hóa sắc nét, căn chỉnh chuẩn tâm mọi nút bấm, bảng thông số và menu không đè số, không rụng dấu.\n- ĐÓNG GÓI SẠCH 2 CHIỀU: Tích hợp cài đặt & khôi phục 1-Click tức thì, bảo toàn 100% file save và mod cá nhân khác của người chơi.",
       "process_names": [
         "DW3CE_RE",
