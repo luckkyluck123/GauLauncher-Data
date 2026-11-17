@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "updated_at": "2026-11-17T01:20:00Z",
+  "version": "1.0.6",
+  "updated_at": "2026-11-17T01:40:00Z",
   "launcher_download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/GauCloudLauncher.zip",
   "games": [
     {
@@ -61,6 +61,36 @@
       "payload_sha256": "7b383f6eb08da9e00564046aa182b0a63991dbbcf058b813e5ebb08663f97fae",
       "file_size": 6569016,
       "sha256": "7b383f6eb08da9e00564046aa182b0a63991dbbcf058b813e5ebb08663f97fae"
+    },
+    {
+      "id": "borderlands_4",
+      "title": "Borderlands 4",
+      "genre": "Hành Động / Bắn Súng (RPG FPS)",
+      "developer": "Gearbox Software",
+      "version": "1.0.0",
+      "status": "ready",
+      "staging": true,
+      "badge": "Đại Tu 100%",
+      "author": "Gấu Công Tâm",
+      "banner_title": "BORDERLANDS 4",
+      "description": "Siêu phẩm bắn súng cướp bóc (Looter Shooter) thế giới mở cực cháy từ Gearbox Software trên nền Unreal Engine 5. Quẩy tung hành tinh Kairos cùng bộ tứ Vault Hunter mới toanh, kho hàng tỷ khẩu súng dị và những pha đấu trùm nảy lửa.\n• **Đại tu xưng hô & khẩu ngữ 100%**: Chuẩn hóa toàn bộ 600+ nhân vật và toàn kịch bản theo chất đường phố bốc lửa, lầy lội đúng điệu Borderlands.\n• **Giữ 100% Tên riêng chuẩn Wiki**: Hãng súng, kỹ năng, trang bị và Vault Hunter giữ nguyên tiếng Anh để dễ tra cứu Build Guide.\n• **Menu độc bản & Phụ đề phim**: **`Quẩy nào!`** (`New Game`) • **`Quẩy tiếp!`** (`Continue`), vietsub đủ mọi cắt cảnh DLC và chính tuyến.",
+      "changelog": "v1.0.0 - RA MẮT BẢN ĐẠI TU VIỆT HÓA HOÀN CHỈNH CHUẨN STUDIO GẤU:\n- ĐẠI TU TOÀN DIỆN XƯNG HÔ & KHẨU NGỮ: Khóa chặt ma trận 600+ thực thể & nhân vật, thổi hồn văn phong đường phố bụi bặm, hài hước thuần Việt 100%.\n- GIỮ CHUẨN TÊN RIÊNG WIKI: Bảo toàn 100% tên hãng súng, kỹ năng, class mod và vật phẩm gốc để anh em tiện theo dõi Build Guide quốc tế.\n- FONT ĐẸP NGHIÊNG ĐỘC BẢN & PHỤ ĐỀ VIDEO: Đồng bộ toàn bộ font Việt hóa sắc nét trên mọi giao diện và vietsub trọn vẹn các cắt cảnh chính tuyến & DLC.\n- ĐÓNG GÓI SẠCH 2 CHIỀU: Cài đặt & khôi phục gốc 1 giây qua Gấu Cloud Launcher, bảo toàn 100% file save và mod cá nhân.",
+      "process_names": [
+        "Borderlands4",
+        "Borderlands4-Win64-Shipping"
+      ],
+      "signature_file": "OakGame\\Content\\Paks\\pakchunk0-Windows_0_P.pak",
+      "exe_relative_path": "Borderlands4.exe",
+      "alt_exe_relative_path": "OakGame\\Binaries\\Win64\\Borderlands4.exe",
+      "mod_pak_name": "pakchunk0-Windows_99_P.pak",
+      "payload_file": "borderlands_4.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/borderlands_4.enc",
+      "steam_appid": "1285190",
+      "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/borderlands_4.jpg?v=2",
+      "payload_size": 16239848,
+      "payload_sha256": "2f04ea0a46fc21b8af4ddb3300f4ce63c20728553d55183cd4d912a63caeba40",
+      "file_size": 16239848,
+      "sha256": "2f04ea0a46fc21b8af4ddb3300f4ce63c20728553d55183cd4d912a63caeba40"
     }
   ]
 }
