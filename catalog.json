@@ -91,6 +91,36 @@
       "payload_sha256": "2f04ea0a46fc21b8af4ddb3300f4ce63c20728553d55183cd4d912a63caeba40",
       "file_size": 16239848,
       "sha256": "2f04ea0a46fc21b8af4ddb3300f4ce63c20728553d55183cd4d912a63caeba40"
+    },
+    {
+      "id": "blade_of_agony",
+      "title": "Wolfenstein: Blade of Agony",
+      "genre": "Hành Động / Bắn Súng (FPS WW2)",
+      "developer": "Team Blade of Agony (Realm667)",
+      "version": "3.1",
+      "status": "ready",
+      "staging": true,
+      "badge": "Việt Hóa 100%",
+      "author": "Gấu Công Tâm",
+      "banner_title": "WOLFENSTEIN: BLADE OF AGONY",
+      "description": "Siêu phẩm bắn súng hành động lấy cảm hứng từ Wolfenstein 3D, Medal of Honor và Call of Duty trên nền GZDoom, đưa anh em theo chân Đại úy William \"B.J.\" Blazkowicz dập nát âm mưu tuyệt mật của Đức Quốc Xã xuyên suốt 3 chương chiến dịch kịch tính.\n• **Lời thoại & Nhật ký chiến trường 100%**: Chuẩn hóa ma trận xưng hô 32 nhân vật theo chất quân ngũ máu lửa, mặn mòi, dí dỏm thuần Việt và giữ nguyên tên riêng vũ khí/địa danh WW2 chuẩn Wiki.\n• **Font Đẹp Nghiêng Độc Bản Studio Gấu Công Tâm**: Việt hóa toàn diện các bộ font chữ, bảng nhiệm vụ, bách khoa Codex và cả Launcher khởi động game.\n• **Menu độc bản Studio Gấu**: **`Quẩy nào!`** (`New Game`) • **`Quẩy tiếp!`** (`Continue`) • **`Té thôi`** (`Exit`).",
+      "changelog": "v3.1 - RA MẮT BẢN VIỆT HÓA HOÀN CHỈNH CHUẨN STUDIO GẤU:\n- VIỆT HÓA 100% KỊCH BẢN & CODEX: Dịch trọn vẹn toàn bộ 4,183 chuỗi từ hội thoại NPC, nhật ký chiến trường, bách khoa toàn thư Codex, gợi ý phòng bí mật đến Launcher khởi động game.\n- KHÓA CHẶT XƯNG HÔ & KHẨU NGỮ CHIẾN TRƯỜNG: Chuẩn hóa 32 hồ sơ nhân vật và 64 cặp xưng hô quân ngũ WW2 theo văn phong hài hước, mặn mòi thuần Việt.\n- FONT ĐẸP NGHIÊNG ĐỘC BẢN & ĐỒ HỌA UI: Đồng bộ toàn bộ font chữ trong game cùng banner menu, bảng nhiệm vụ, sổ tay Codex và cờ Việt Nam trong menu ngôn ngữ.\n- ĐÓNG GÓI SẠCH 2 CHIỀU: Hỗ trợ cài đặt, cập nhật 1-Click và khôi phục gốc bất tử ngay trên Gấu Cloud Launcher, bảo toàn 100% file save và cài đặt cá nhân.",
+      "process_names": [
+        "boa",
+        "Blade of Agony - Launcher"
+      ],
+      "signature_file": "boa.ipk3",
+      "exe_relative_path": "Blade of Agony - Launcher.exe",
+      "alt_exe_relative_path": "boa.exe",
+      "mod_pak_name": "zz_vi_boa_full.pk3",
+      "payload_file": "blade_of_agony.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/blade_of_agony.enc",
+      "steam_appid": "",
+      "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/blade_of_agony.jpg?v=1",
+      "payload_size": 10061432,
+      "payload_sha256": "b2d6298b6d217a37b227c86fcdc1449464540e2d9201fbb8a716cef69a501d0a",
+      "file_size": 10061432,
+      "sha256": "b2d6298b6d217a37b227c86fcdc1449464540e2d9201fbb8a716cef69a501d0a"
     }
   ]
 }
