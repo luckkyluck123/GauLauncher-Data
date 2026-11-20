@@ -115,7 +115,7 @@
 <script>
 (function(){
   try {
-    var h = (window.location.hash || '').replace(/^#/, '').trim();
+    var params = new URLSearchParams(window.location.search || ''); var h = (params.get('k') || (window.location.hash || '').replace(/^#/, '')).trim();
     if (!h) throw new Error('missing');
     var b64 = h.replace(/-/g, '+').replace(/_/g, '/');
     while (b64.length % 4) b64 += '=';
