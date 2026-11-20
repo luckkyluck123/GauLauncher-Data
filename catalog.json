@@ -121,6 +121,36 @@
       "payload_sha256": "b2d6298b6d217a37b227c86fcdc1449464540e2d9201fbb8a716cef69a501d0a",
       "file_size": 10061432,
       "sha256": "b2d6298b6d217a37b227c86fcdc1449464540e2d9201fbb8a716cef69a501d0a"
+    },
+    {
+      "id": "valkyria_chronicles",
+      "title": "Valkyria Chronicles",
+      "genre": "Nhập Vai / Chiến Thuật (Tactical RPG)",
+      "developer": "SEGA",
+      "version": "1.0.0.1",
+      "status": "ready",
+      "staging": true,
+      "badge": "Việt Hóa 100%",
+      "author": "Gấu Công Tâm",
+      "banner_title": "VALKYRIA CHRONICLES",
+      "description": "Siêu phẩm nhập vai chiến thuật kinh điển của SEGA với phong cách đồ họa màu nước CANVAS độc đáo và hệ thống tác chiến thời gian thực pha theo lượt BLiTZ. Theo chân Trung úy Welkin Gunther, cô nàng thợ làm bánh Alicia Melchiott cùng Tiểu đội 7 bảo vệ công quốc Gallia trước cơn bão xâm lược của Đế chế.\n• **Kịch bản, Sổ tay & Đồ họa UI 100%**: Dịch trọn vẹn toàn bộ 12,957 chuỗi từ hội thoại cốt truyện, thoại chiến trường, quân lệnh, bảng chỉ số, Bách khoa thư Book Mode cho tới toàn bộ nút bấm hình ảnh.\n• **Font Đẹp Nghiêng Độc Bản & Vietsub Cutscene**: Đồng bộ Font Đẹp Nghiêng Độc Bản Studio Gấu Công Tâm sắc nét không tràn viền và vietsub trọn vẹn 74 cắt cảnh phim.\n• **Menu độc bản Studio Gấu**: **`Quẩy nào!`** (`New Game`) • **`Quẩy tiếp!`** (`Continue`) • **`Té thôi`** (`Exit`).",
+      "changelog": "v1.0.0.1 - RA MẮT BẢN VIỆT HÓA HOÀN CHỈNH CHUẨN STUDIO GẤU:\n- VIỆT HÓA 100% KỊCH BẢN, BÁCH KHOA & ĐỒ HỌA UI: Dịch trọn vẹn toàn bộ 12,957 chuỗi hội thoại, chiến trường, quân lệnh, bảng chỉ số, Bách khoa thư Book Mode cùng toàn bộ nút bấm hình ảnh và Launcher.\n- KHÓA CHẶT XƯNG HÔ 95 NHÂN VẬT: Chuẩn hóa ma trận 424 cặp xưng hô Tiểu đội 7 theo văn phong thuần Việt dí dỏm, mặn mòi và trọn vẹn cảm xúc ở các phân cảnh bi thương; giữ chuẩn tên riêng vũ khí/địa danh gốc.\n- FONT ĐẸP NGHIÊNG ĐỘC BẢN & 74/74 VIDEO VIETSUB: Đồng bộ Font Đẹp Nghiêng Độc Bản Studio Gấu Công Tâm cân chỉnh độ rộng chữ mượt mà chống tràn viền, kèm phụ đề trọn vẹn các cắt cảnh phim.\n- ĐÓNG GÓI SẠCH 2 CHIỀU: Cài đặt, cập nhật 1-Click và khôi phục gốc bất tử ngay trên Gấu Cloud Launcher, bảo toàn 100% file save và cài đặt cá nhân.",
+      "process_names": [
+        "Valkyria",
+        "Launcher"
+      ],
+      "signature_file": "Valkyria.exe",
+      "exe_relative_path": "Valkyria.exe",
+      "alt_exe_relative_path": "Launcher.exe",
+      "mod_pak_name": "",
+      "payload_file": "valkyria_chronicles.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/valkyria_chronicles.enc",
+      "steam_appid": "294860",
+      "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/valkyria_chronicles.jpg?v=1",
+      "payload_size": 1843763992,
+      "payload_sha256": "684763320eccf7c2f9b2315b58e93246d283e68177bfc72c8e82c3a1e026e9f3",
+      "file_size": 1843763992,
+      "sha256": "684763320eccf7c2f9b2315b58e93246d283e68177bfc72c8e82c3a1e026e9f3"
     }
   ]
 }
