@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mã PIN Cài Đặt Việt Hóa — Studio Gấu Công Tâm</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(circle at top, #1e2436 0%, #0d1017 100%);
+    color: #f5f6fa;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    padding: 20px;
+  }
+  .card {
+    max-width: 520px;
+    width: 100%;
+    background: rgba(22, 27, 40, 0.96);
+    border: 2px solid #f1c40f;
+    border-radius: 18px;
+    padding: 32px 28px;
+    text-align: center;
+    box-shadow: 0 20px 55px rgba(0,0,0,0.65), 0 0 25px rgba(241, 196, 15, 0.18);
+  }
+  .badge {
+    display: inline-block;
+    background: linear-gradient(90deg, #f39c12, #f1c40f);
+    color: #111;
+    font-weight: 800;
+    font-size: 13px;
+    padding: 6px 16px;
+    border-radius: 99px;
+    letter-spacing: 0.6px;
+    margin-bottom: 16px;
+  }
+  h1 {
+    font-size: 23px;
+    color: #ffffff;
+    margin-bottom: 8px;
+    line-height: 1.35;
+  }
+  .sub {
+    color: #a4b0be;
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+  .pin-box {
+    background: #0b0e14;
+    border: 2px dashed #2ecc71;
+    border-radius: 14px;
+    padding: 20px;
+    font-size: 44px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    color: #2ecc71;
+    margin-bottom: 20px;
+    user-select: all;
+    text-shadow: 0 0 16px rgba(46, 204, 113, 0.35);
+  }
+  .btn-copy {
+    width: 100%;
+    border: none;
+    background: linear-gradient(90deg, #27ae60, #2ecc71);
+    color: #fff;
+    font-size: 17px;
+    font-weight: 800;
+    padding: 15px 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.12s, box-shadow 0.12s;
+    box-shadow: 0 6px 20px rgba(46, 204, 113, 0.35);
+    margin-bottom: 18px;
+  }
+  .btn-copy:hover { transform: translateY(-2px); }
+  .btn-copy:active { transform: translateY(0); }
+  .guide {
+    background: rgba(255,255,255,0.04);
+    border-radius: 10px;
+    padding: 14px;
+    font-size: 13.5px;
+    color: #ced6e0;
+    line-height: 1.6;
+    text-align: left;
+    margin-bottom: 18px;
+  }
+  .discord-link {
+    display: inline-block;
+    color: #f1c40f;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .discord-link:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+  <div class="card" id="mainCard">
+    <div class="badge">🐻 STUDIO GẤU CÔNG TÂM • MÃ PIN CHÍNH THỨC</div>
+    <h1 id="gameTitle">Đang tải thông tin game...</h1>
+    <p class="sub">Cảm ơn anh em đã vượt link ủng hộ Gấu duy trì máy chủ đám mây ❤️</p>
+    <div class="pin-box" id="pinCode">-----</div>
+    <button class="btn-copy" id="copyBtn" onclick="copyPin()">📋 BẤM ĐỂ COPY MÃ PIN 5 SỐ</button>
+    <div class="guide">
+      💡 <b>Cách nạp vào Gấu Cloud Launcher:</b><br>
+      1️⃣ Mở <b>GauLauncher.exe</b> ➔ Chọn đúng tựa game.<br>
+      2️⃣ Bấm nút xanh <b>[CÀI ĐẶT VIỆT HÓA]</b> ➔ Dán 5 số trên vào ô Mã PIN là xong!<br>
+      <i>(Những lần cập nhật bản dịch sau Launcher tự nhớ PIN, không cần lấy lại!)</i>
+    </div>
+    <a class="discord-link" href="https://discord.gg/Ac7mcqCuPB" target="_blank">👉 Tham gia Discord Cộng Đồng Việt Hóa Gấu Công Tâm</a>
+  </div>
+<script>
+(function(){
+  try {
+    var h = (window.location.hash || '').replace(/^#/, '').trim();
+    if (!h) throw new Error('missing');
+    var b64 = h.replace(/-/g, '+').replace(/_/g, '/');
+    while (b64.length % 4) b64 += '=';
+    var raw = atob(b64);
+    var key = 'GAU_STUDIO_2026_SECRET';
+    var bytes = new Uint8Array(raw.length);
+    for (var i = 0; i < raw.length; i++) {
+      bytes[i] = raw.charCodeAt(i) ^ key.charCodeAt(i % key.length);
+    }
+    var jsonStr = new TextDecoder('utf-8').decode(bytes);
+    var data = JSON.parse(jsonStr);
+    if (!data || !data.p) throw new Error('invalid');
+    document.getElementById('gameTitle').textContent = '🎮 ' + (data.g || 'Bản Việt Hóa Studio Gấu');
+    document.getElementById('pinCode').textContent = data.p;
+  } catch (e) {
+    document.getElementById('gameTitle').textContent = '🔒 Chưa Có Mã Truy Cập Hợp Lệ';
+    document.getElementById('pinCode').textContent = '🔒🔒🔒🔒🔒';
+    document.getElementById('pinCode').style.fontSize = '28px';
+    document.getElementById('copyBtn').style.display = 'none';
+  }
+})();
+function copyPin() {
+  var p = document.getElementById('pinCode').textContent.trim();
+  if (!p || p.indexOf('-') !== -1 || p.indexOf('🔒') !== -1) return;
+  navigator.clipboard.writeText(p).then(function(){
+    var btn = document.getElementById('copyBtn');
+    btn.textContent = '✅ ĐÃ COPY MÃ PIN: ' + p + ' (Dán vào Launcher ngay!)';
+    btn.style.background = 'linear-gradient(90deg, #f39c12, #f1c40f)';
+    btn.style.color = '#111';
+  });
+}
+</script>
+</body>
+</html>
