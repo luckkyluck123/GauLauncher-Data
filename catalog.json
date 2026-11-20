@@ -161,6 +161,38 @@
       "sha256": "684763320eccf7c2f9b2315b58e93246d283e68177bfc72c8e82c3a1e026e9f3",
       "pin_envelope": "0:297413f2c81fcd03:6b11f20716",
       "pin_vault": "ff43b4d89a"
+    },
+    {
+      "id": "brigandine_abyss",
+      "title": "Brigandine: Abyss",
+      "genre": "Nhập Vai / Chiến Thuật (Tactical RPG)",
+      "developer": "Adglobe / Happinet",
+      "version": "1.0.0",
+      "status": "ready",
+      "staging": true,
+      "badge": "Việt Hóa 100%",
+      "author": "Gấu Công Tâm",
+      "banner_title": "BRIGANDINE: ABYSS",
+      "description": "Siêu phẩm nhập vai chiến thuật lục giác kinh điển trở lại với đồ họa Unreal Engine 5 hoành tráng — nơi anh em dẫn dắt một trong các quốc gia chinh phục đại lục, thu phục quái vật huyền thoại và khám phá bí ẩn Vực Thẳm.\n• **Kịch bản, Tutorial & Hệ thống 100%**: Việt hóa trọn vẹn toàn bộ 9,401 chuỗi gồm 68 bảng dữ liệu cốt truyện, chiến trường, kỹ năng, trang bị, bách khoa toàn thư và toàn bộ bảng hướng dẫn tân thủ.\n• **Font Đẹp Nghiêng Độc Bản & Vietsub Cutscene**: Đồng bộ Font Đẹp Nghiêng Độc Bản Studio Gấu Công Tâm trên 26/26 tệp font sắc nét, gọn khung chuẩn xác cùng phụ đề tiếng Việt cho trọn bộ 32 cắt cảnh phim.\n• **Menu độc bản Studio Gấu**: **`Quẩy nào!`** (`New Game`) • **`Quẩy tiếp!`** (`Continue`) • **`Té thôi`** (`Exit`).",
+      "changelog": "v1.0.0 - RA MẮT BẢN VIỆT HÓA HOÀN CHỈNH CHUẨN STUDIO GẤU:\n- VIỆT HÓA 100% KỊCH BẢN & HỆ THỐNG (9,401 CHUỖI): Dịch trọn vẹn toàn bộ 68 bảng DataTables cốt truyện, hội thoại chiến trường, kỹ năng, trang bị, bách khoa toàn thư, thành tựu và toàn bộ bảng hướng dẫn tân thủ.\n- KHÓA CHẶT XƯNG HÔ 103 NHÂN VẬT: Chuẩn hóa ma trận 924 cặp xưng hô 2 chiều theo phong cách cổ trang/fantasy mặn mòi dí dỏm, giữ trọn cảm xúc ở các phân cảnh bi thương và giữ nguyên 100% tên riêng chuẩn Wiki.\n- FONT ĐẸP NGHIÊNG ĐỘC BẢN & 32 CUTSCENE VIETSUB: Thay trọn bộ 26/26 font hệ thống sắc nét không ô vuông, căn chỉnh ngắt dòng gọn khung Tutorial & phụ đề phim không tràn viền.\n- ĐÓNG GÓI SẠCH 2 CHIỀU (.pak / .ucas / .utoc): Cài đặt, cập nhật 1-Click và khôi phục gốc bất tử ngay trên Gấu Cloud Launcher, bảo toàn 100% file save cá nhân.",
+      "process_names": [
+        "BrigandineAbyss",
+        "BrigandineAbyss-Win64-Shipping"
+      ],
+      "signature_file": "BrigandineAbyss.exe",
+      "exe_relative_path": "BrigandineAbyss.exe",
+      "alt_exe_relative_path": "BrigandineAbyss\\Binaries\\Win64\\BrigandineAbyss-Win64-Shipping.exe",
+      "mod_pak_name": "BrigandineAbyss-Windows_99_P.pak",
+      "payload_file": "brigandine_abyss.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/brigandine_abyss.enc",
+      "steam_appid": "3211430",
+      "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/brigandine_abyss.jpg?v=1",
+      "payload_size": 1560104,
+      "payload_sha256": "eaa66c65d9141f8604f55a6de4415798ceb030524ba85301f409d7808bd22929",
+      "file_size": 1560104,
+      "sha256": "eaa66c65d9141f8604f55a6de4415798ceb030524ba85301f409d7808bd22929",
+      "pin_envelope": "0:e9cb701f684c6585:99350d66be",
+      "pin_vault": "d08e5cd1d4"
     }
   ],
   "pin_rotated_date": "2026-11-20"
