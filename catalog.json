@@ -211,7 +211,7 @@
         "GhostMasterRemake",
         "GhostMasterRemake-Win64-Shipping"
       ],
-      "signature_file": "GhostMasterRemake\\Content\\Paks\\GhostMasterRemake-Windows.ucas",
+      "signature_file": "GhostMasterRemake.exe",
       "exe_relative_path": "GhostMasterRemake.exe",
       "alt_exe_relative_path": "GhostMasterRemake\\Binaries\\Win64\\GhostMasterRemake-Win64-Shipping.exe",
       "mod_pak_name": "",
