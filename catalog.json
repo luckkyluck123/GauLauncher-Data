@@ -193,6 +193,38 @@
       "sha256": "eaa66c65d9141f8604f55a6de4415798ceb030524ba85301f409d7808bd22929",
       "pin_envelope": "0:49241de3392b2b09:756f5a6789|0:e9cb701f684c6585:99350d66be",
       "pin_vault": "d08e5cd1d4"
+    },
+    {
+      "id": "ghost_master_relics",
+      "title": "Ghost Master Resurrection: Relics of the Past",
+      "genre": "Chiến Thuật / Giải Đố Hài Hước",
+      "developer": "Mechano Story Studio / Strategy First",
+      "version": "1.0.0",
+      "status": "ready",
+      "staging": true,
+      "badge": "Việt Hóa 100%",
+      "author": "Gấu Công Tâm",
+      "banner_title": "GHOST MASTER RESURRECTION: RELICS OF THE PAST",
+      "description": "Siêu phẩm chiến thuật chỉ huy binh đoàn ma ám kinh điển trở lại trên nền đồ họa Unreal Engine 5 sắc nét — cùng gói mở rộng Relics of the Past với những màn hù dọa phàm nhân vừa quái chiêu vừa cười té ghế.\n• **Cốt truyện, Kỹ năng & Menu (100% ST_Texts)**: Việt hóa trọn vẹn 3,275 chuỗi cốt truyện chiến dịch chính & mở rộng, tiểu sử Hồn ma/Phàm nhân, bộ kỹ năng, hướng dẫn và hệ thống menu.\n• **Văn phong Studio Gấu Công Tâm**: Mặn mòi, cà khịa đúng chất ma quái, giữ chuẩn 100% tên riêng Hồn Ma & thuật ngữ Wiki.\n• **Font Đẹp Nghiêng & Chữ Ký Độc Quyền**: Đồng bộ Font Đẹp Nghiêng Độc Bản Studio Gấu Công Tâm cùng chữ ký 2 dòng ngay Title Screen / Main Menu.\n• **Menu độc bản**: **`Quẩy nào!`** (`New Game`) • **`Quẩy tiếp!`** (`Continue`) • **`Té thôi`** (`Exit`).",
+      "changelog": "v1.0.0 - RA MẮT BẢN VIỆT HÓA CHUẨN STUDIO GẤU CÔNG TÂM:\n- VIỆT HÓA TRỌN VẸN KỊCH BẢN & HỆ THỐNG (ST_Texts & Modio): Dịch mượt mà toàn bộ lời thoại chiến dịch chính & Relics of the Past, hồ sơ Hồn ma/Phàm nhân, bộ kỹ năng, bảng lệnh và hướng dẫn.\n- VĂN PHONG HÀI HƯỚC ĐỘC BẢN & CHUẨN XƯNG HÔ: Khóa chặt ma trận xưng hô chuẩn thế giới tâm linh ma quái, giữ 100% tên riêng gốc tiện tra cứu Wiki.\n- FONT ĐẸP NGHIÊNG ĐỘC BẢN & CHỮ KÝ TITLE SCREEN: Đồng bộ toàn bộ font hệ thống sắc nét không lỗi dấu cùng Chữ Ký Độc Quyền Studio Gấu Công Tâm trên màn hình chính.\n- ĐÓNG GÓI BẤT TỬ 2 CHIỀU (.bak / Delta IoStore): Cài đặt, cập nhật và khôi phục nguyên bản Steam 100% chỉ với 1-Click trên Gấu Cloud Launcher.",
+      "process_names": [
+        "GhostMasterRemake",
+        "GhostMasterRemake-Win64-Shipping"
+      ],
+      "signature_file": "GhostMasterRemake\\Content\\Paks\\GhostMasterRemake-Windows.ucas",
+      "exe_relative_path": "GhostMasterRemake.exe",
+      "alt_exe_relative_path": "GhostMasterRemake\\Binaries\\Win64\\GhostMasterRemake-Win64-Shipping.exe",
+      "mod_pak_name": "",
+      "payload_file": "ghost_master_relics.enc",
+      "download_url": "https://github.com/luckkyluck123/GauLauncher-Data/releases/download/v1.0.0/ghost_master_relics.enc",
+      "steam_appid": "3289090",
+      "cover_url": "https://raw.githubusercontent.com/luckkyluck123/GauLauncher-Data/main/covers/ghost_master_relics.jpg?v=1",
+      "payload_size": 15497112,
+      "payload_sha256": "a9de5eb62a4d74fa2230b433194c9a7bc86785faa78835bb1eaa1705dcec0f5e",
+      "file_size": 15497112,
+      "sha256": "a9de5eb62a4d74fa2230b433194c9a7bc86785faa78835bb1eaa1705dcec0f5e",
+      "pin_envelope": "0:47aa191e13759217:2cd13c9d8a",
+      "pin_vault": "a6a2c4cc5b"
     }
   ],
   "pin_rotated_date": "2026-11-21",
